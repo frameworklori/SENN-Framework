@@ -74,3 +74,36 @@ Author
 Framework origin: LORI System Concept
 (Attribution required for derivative use)
 
+--------
+
+# SENN-Framework  
+## 太空能量節點網路（SENN：Space Energy Node Network）
+
+---
+
+## 概述
+
+SENN（太空能量節點網路）是一個以可行性為導向的框架，用於建構「分散式、以太空為基礎」的能源基礎設施。
+
+它將太空推進的概念從：
+> **依賴機載燃料 → 依賴網路化能量中繼**
+
+SENN 不再要求每艘航天器為整段任務攜帶全部所需能量，而是提出一套由 **能量節點（energy nodes）** 組成的系統，用來：
+
+- 收集能量  
+- 傳輸能量  
+- 在太空中中繼能量  
+- 支援推進與導航  
+
+---
+
+## 核心概念
+
+> 不是一種推進裝置，而是一種基礎設施模型。
+
+SENN 將太空旅行轉變為：
+
+```text
+節點 → 節點 → 節點
+
+航天器在能量支援網路中移動，而不是以孤立任務的方式進行。
